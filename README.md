@@ -234,7 +234,7 @@ La interfaz de red de esta máquina virtual se configurará en modo promiscuo, p
 
 Primero de todo, deberemos poner la tarjeta dentro de la MV en modo promiscuo:
 
-![Tarjeta modo promiscuo](img/targeta-modo-promiscuo.png)
+![Tarjeta modo promiscuo](img/targeta-modo-promiscu.png)
 
 Tras configurar la tarjeta de red de la MV a nivel de hipervisor, toca hacer lo mismo dentro del sistema operativo. Utilizamos el siguiente comando:
 
